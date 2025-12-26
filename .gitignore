@@ -1,0 +1,11 @@
+# Executables
+solution
+*.exe
+*.out
+*.dSYM
+
+# OS related
+.DS_Store
+
+# IDE related
+.vscode/
